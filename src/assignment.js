@@ -25,7 +25,7 @@ function sumOfNumbers(arrayOfNumbers){
   return sum;
 }
 console.log(value)
-// assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -67,7 +67,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
 }
 let converted = celsiusToFahrenheit(celciusValue)
 console.log(converted)
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 // ========================
 // DO NOT EDIT THIS BLOCK
